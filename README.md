@@ -1,2 +1,2 @@
-# Hello-world
-This repository is for practicing GitHub flow
+# Goodbye-world
+This is the evil version of the main branch repository is for practicing GitHub flow
